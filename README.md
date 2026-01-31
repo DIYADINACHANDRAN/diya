@@ -1,8 +1,8 @@
-# diya
-Artificial intelligence and data science student 
-learning python , c and data structure
+# Diya
+Artificial Intelligence and Data Science Student 
+Learning Python , C and Data Structure
 
-skills
+# Skills:
 Python
 Data structure
 Github
